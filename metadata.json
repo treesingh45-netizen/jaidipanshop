@@ -1,0 +1,6 @@
+{
+  "name": "Jaidi Pan Shop & Refreshments - DHA Phase 4 Lahore",
+  "description": "Premium modern brand destination for refreshing juices, signature shakes, desserts, falooda, and classic desi refreshments in DHA Phase 4, Sector CCA, Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
